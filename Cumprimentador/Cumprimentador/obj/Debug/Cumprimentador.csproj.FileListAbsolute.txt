@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Jasper\Cumprimentador\Cumprimentador\bin\Debug\Cumprimentador.exe.config
+C:\Users\user\Desktop\Jasper\Cumprimentador\Cumprimentador\bin\Debug\Cumprimentador.exe
+C:\Users\user\Desktop\Jasper\Cumprimentador\Cumprimentador\bin\Debug\Cumprimentador.pdb
+C:\Users\user\Desktop\Jasper\Cumprimentador\Cumprimentador\obj\Debug\Cumprimentador.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Jasper\Cumprimentador\Cumprimentador\obj\Debug\Cumprimentador.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Jasper\Cumprimentador\Cumprimentador\obj\Debug\Cumprimentador.exe
+C:\Users\user\Desktop\Jasper\Cumprimentador\Cumprimentador\obj\Debug\Cumprimentador.pdb
